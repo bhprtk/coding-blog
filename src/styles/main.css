@@ -1,0 +1,204 @@
+a.link:hover {
+  text-decoration: none;
+}
+
+#root {
+	/* background: url('http://wallpaper4pc.com/wp-content/uploads/2018/01/Free-Gradient-Wallpaper-Ultra-HD-2560x1600.jpg') repeat-y 50% 0; */
+	/* background-size: 100vw; */
+	padding-bottom: 50px;
+}
+
+input:focus,
+select:focus,
+button:focus {
+  outline: none !important;
+}
+
+input::-webkit-input-placeholder {
+  color:#bdbdbd !important;
+}
+
+input::-moz-placeholder {
+  color:#bdbdbd !important;
+}
+
+input::-ms-placeholder {
+  color:#bdbdbd !important;
+}
+
+input::placeholder {
+  color:#bdbdbd !important;
+}
+
+.blockquote {
+  border-left: 5px solid #eee;
+	color: #696969;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  line-height: 1.75;
+  margin: 0 0 20px;
+  padding: 10px 20px;
+	text-align: justify;
+}
+
+/* .code {
+  border: none;
+} */
+
+.google-button {
+  background: #fff;
+  border: 2px solid #E57373;
+  color: #E57373;
+  cursor: pointer;
+  height: 40px;
+	width: 150px;
+}
+
+.google-button:focus {
+  outline: none;
+}
+
+.google-button:hover {
+  background: #E57373;
+	color: #fff;
+}
+
+.link {
+  cursor: pointer;
+}
+
+
+pre {
+  /* background: #424242; */
+  color: #ABB2BF !important;
+  background: #282c33;
+  /* background: #f7f8fa;   */
+	border: none;
+  border-radius: 0;
+  padding: 10px 20px 0px 30px; 
+  width: calc(100% + 60px);
+  margin-left: -30px;
+  font-size: 16px !important;
+  overflow-x: hidden !important;
+  white-space: pre-wrap;
+}
+
+.publish-button {
+  border: 2px solid #558B2F;
+	color: #558B2F;
+	background: #fff;
+	height: 35px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 16px;
+	display: flex;
+	justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.publish-button:focus {
+  outline: none;
+}
+
+.publish-button:hover {
+	border: none;
+	color: #fff;
+	background: #558B2F;
+}
+
+.read-button {
+	border: 2px solid #558B2F;
+	color: #558B2F;
+	background: #fff;
+	height: 35px;
+	width: 120px;
+	font-weight: bold;
+	font-size: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.read-button:hover {
+	border: none;
+	color: #fff;
+	background: #558B2F;
+}
+
+.read-blog-button {
+  background: #a085d2;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  height: 40px;
+  width: 150px;
+}
+
+.read-blog-button:focus {
+  outline: none;
+}
+
+.read-blog-button:hover {
+  background: #fff;
+  border: 2px solid #a085d2;
+  color: #a085d2;
+}
+
+.sign-in-button {
+  background: #fff;
+  border: 2px solid #9E9E9E;
+  color: #9E9E9E;
+  cursor: pointer;
+  height: 40px;
+  margin-left: 10px;
+  width: 150px;
+}
+
+.sign-in-button:focus {
+  outline: none;
+}
+
+.sign-in-button:hover {
+  background: #9E9E9E;
+  border: none;
+  color: #fff;
+}
+
+.subtitle {
+	color: #696969;
+	font-family: 'Noto Sans', sans-serif;
+	/* margin-bottom: 30px; */
+}
+
+.title {
+	font-family: 'Noto Sans', sans-serif;
+	/* border-bottom: 1px solid #e5e5e5; */
+	/* padding-bottom: 10px; */
+	/* color: #696969; */
+}
+
+.unordered-list-item {
+	font-size: 18px;
+	/*margin-bottom: 30px;*/
+	text-align: justify;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	color: #696969;
+	line-height: 1.75;
+}
+
+.unstyled {
+	font-size: 18px;
+	/*margin-bottom: 30px;*/
+	text-align: justify;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	color: #696969;
+	line-height: 1.75;
+}
+
+
+
+
+
+
+
+
